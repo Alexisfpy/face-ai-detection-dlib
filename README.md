@@ -36,5 +36,5 @@ El algoritmo sigue estos pasos sobre la imagen final de prueba:
 ## 📊 Resultados
 El programa procesa con éxito la imagen de prueba, identificando a los sujetos registrados en la base de datos (ej. Barney Stinson, Ted Mosby, Robin, Marshall, Alyson) marcándolos en **verde**, y clasificando correctamente en **rojo/azul** como `"NonSei"` a las personas que no constaban en el archivo de registro.
 
-## Notebook
+## Ver en Notebook
 [Ver Face Detection DLIB](/src/facedatectiondlib/faceDetectionDLIB.ipynb)
