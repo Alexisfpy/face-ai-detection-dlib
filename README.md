@@ -1,4 +1,4 @@
-# 🎭 Tarea 67: Identificación de Caras Conocidas con DLIB y OpenCV
+# 🎭 Identificación de Caras Conocidas con DLIB y OpenCV
 
 **Especialidad:** Inteligencia Artificial y Big Data  
 **Asignatura:** Programación en Inteligencia Artificial (PIA)  
